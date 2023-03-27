@@ -1,0 +1,20 @@
+.css{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+  margin-top: 150px;
+}
+
+
+img{
+ width: 300px;
+ height: 180px;
+}
+p{
+  margin-left: 10px;
+}
+
+h4{
+  margin-left: 10px;
+}
